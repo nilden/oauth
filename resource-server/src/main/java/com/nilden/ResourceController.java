@@ -1,4 +1,4 @@
-package com.nilden.resourceserver;
+package com.nilden;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.core.annotation.AuthenticationPrincipal;
