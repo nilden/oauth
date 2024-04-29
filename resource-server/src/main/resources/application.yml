@@ -9,7 +9,6 @@ spring:
           issuer-uri: https://login.microsoftonline.com/${TENANT_ID}/v2.0
           jwk-set-uri: https://login.microsoftonline.com/${TENANT_ID}/discovery/v2.0/keys
 
-
 logging:
   level:
     root: INFO
