@@ -19,10 +19,6 @@ spring:
     oauth2:
       client:
         registration:
-#          google:
-#            client-id: 139185455381-3j26uipc2lvtu671il2bru0dkk16m2jk.apps.googleusercontent.com
-#            client-secret: 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
-#            scope: openid,profile,email
           azure:
             client-id: ${CLIENT_ID}
             client-secret: ${CLIENT_SECRET}
